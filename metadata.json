@@ -1,0 +1,6 @@
+{
+  "name": "DKAP Assists Power AI",
+  "description": "A high-performance AI chat interface with a dark liquid 'Power AI' theme, featuring voice mode, file analysis, and OCR.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI Chat", "Voice Mode", "File Analysis", "OCR"]
+}
