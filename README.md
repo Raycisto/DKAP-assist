@@ -1,3 +1,5 @@
+![DKAP Assists Interface](Screenshot%202026-05-04%20175818.jpg)
+
 🌌 DKAP Assists
 DKAP Assists is a high-performance, multimodal AI interface designed for seamless interaction. It operates on a zero-infrastructure model, utilizing client-side execution to eliminate the need for backends, servers, or developer-side investment.
 
