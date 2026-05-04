@@ -1,4 +1,8 @@
-![DKAP Assists Interface](Screenshot 2026-05-04 180907.png)
+<p align="center">
+  <img src="Screenshot 2026-05-04 180907.png" alt="DKAP Assists Model Selection" width="500">
+  <br>
+  <em>The model selection interface powered by Puter.js, providing access to 400+ AI models.</em>
+</p>
 
 🌌 DKAP Assists
 DKAP Assists is a high-performance, multimodal AI interface designed for seamless interaction. It operates on a zero-infrastructure model, utilizing client-side execution to eliminate the need for backends, servers, or developer-side investment.
